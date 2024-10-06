@@ -28,4 +28,4 @@ Founders do not do this because they consider it 'unscalable'. They enter into a
 
 Selection of such "close" market and experience for this market sets off a virtuous cycle of product improvement and sales. Once you have initial success, may be you can go to an adjacent market. Temptations to veer off this path are everywhere and easy to fall for. You will find reasons to justify your mistakes. You will not know your mistakes until you are deep down the rabbit hole.
 
-I wrote this post as a sort of sermon for someone. Really though, this post is for me. Sometimes darkness takes over and temptation to take shortcuts becomes high. As I said earlier, starting up is very vulnerable. It's possible that whatever I wrote here might seem like bullshit to me (and others) in hindsight. I take that risk by putting this out there.
+I wrote this post as a sort of sermon for someone. Really though, this post is for me. Sometimes darkness takes over and temptation to take shortcuts becomes high. As I said earlier, starting up is very vulnerable. Writing your thoughts brings clarity and thus something to depend on.

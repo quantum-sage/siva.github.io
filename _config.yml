@@ -1,13 +1,13 @@
-title: Sasank's Blog
+title: Siva's Blog
 description: >
-  Code. Books. Languages.
+  My Experiments.
 url: "/"
 paginate:	5 # The number of posts to show per page on your homepage
-name: "Sasank Chilamkurthy"
-email: 'sasankchilamkurthy@gmail.com'
+name: "Sivarama Krishnan"
+email:
 markdown: kramdown
-twitter_username: sasank51
-twitter_image: assets/favicon/sasank51.jpg
+twitter_username: meredilettante
+twitter_image: 
 permalink: none
 kramdown:
   parse_block_html: true
@@ -18,5 +18,5 @@ gems:
   - jekyll-sass-converter
   - jekyll-textile-converter
 long_description: >
-  I write about artificial intelligence (AI), technology, books, languages and some time random stuff.
-real_url: https://chsasank.github.io
+  I write about AI/ML, Science, Math and occasionally about philosophy.
+real_url: https://siva.github.io

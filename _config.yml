@@ -1,7 +1,8 @@
 title: Siva's Blog
 description: >
   My Experiments.
-url: "/"
+url: "https://siva.github.io"
+baseurl: "/"
 paginate:	5 # The number of posts to show per page on your homepage
 name: "Sivarama Krishnan"
 email:
@@ -18,5 +19,5 @@ gems:
   - jekyll-sass-converter
   - jekyll-textile-converter
 long_description: >
-  I write about AI/ML, Science, Math and occasionally about philosophy.
+  I write about AI/ML, Science, Math and occasionally about Philosophy.
 real_url: https://siva.github.io
